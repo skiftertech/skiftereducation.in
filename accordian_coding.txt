@@ -1,0 +1,33 @@
+                     <div class="panel panel-default panel-faq">
+                            <div class="panel-heading">
+                                <a data-toggle="collapse" data-parent="#accordion-cat-2" href="#faq-cat-2-sub-13">
+                                    <h4 class="panel-title">
+                                        Section 13: PHP & jQuery
+                                        <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
+                                    </h4>
+                                </a>
+                            </div>
+                            <div id="faq-cat-2-sub-13" class="panel-collapse collapse course-content">
+                                <div class="panel-body">
+                                   <div class="row ">
+        <ul>
+          <li><i class="fa fa-crosshairs"></i>Introduction to javascript</li>
+          <li><i class="fa fa-crosshairs"></i>Introduction to jQuery ( javascript library ) </li>
+          <li><i class="fa fa-crosshairs"></i>Basic DOM handling with jQuery </li>
+          <li><i class="fa fa-crosshairs"></i>AJAX concept </li>
+          <li><i class="fa fa-crosshairs"></i>Implementing AJAX with jQuery  </li>
+          <li><i class="fa fa-crosshairs"></i>JSON handling with jQuery  </li>
+          <li><i class="fa fa-crosshairs"></i>Form Validation </li>
+          <li><i class="fa fa-crosshairs"></i>Using third party library </li>
+        </ul>
+                                        
+                                     </div>
+                                     
+                             
+             
+                                  
+             
+                                    
+                                </div>
+                            </div>
+                        </div>
