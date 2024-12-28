@@ -960,7 +960,7 @@ img {
 }
 #mu-testimonial .mu-testimonial-area .mu-testimonial-content .mu-testimonial-item .mu-testimonial-quote blockquote:before {
   content: '\f10d';
-  color: #fff;
+  color: #000;
   font-family: fontAwesome;
   font-style: italic;
   left: 2%;
