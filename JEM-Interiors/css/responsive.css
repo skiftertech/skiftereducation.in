@@ -2783,6 +2783,7 @@ li .single-footer-contact-info .inner {
     height: auto;
     padding-bottom: 0;
     overflow: visible !important;
+    margin-top: 20px;
 }
 .navbar-toggle {
     display: none !important;
