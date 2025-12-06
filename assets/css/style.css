@@ -1,42 +1,10 @@
-/*
-  Template Name: Varsity
-  Author : MarkUps
-  Author URI: http://www.markups.io/
-  Version: 1.0
-  Tags: light, white, education, online education, school, college, university multi page, custom-colors, Bootstrap, responsive, html5, css3, Sass, template, web template
-
-*/
-
-/* Table of Content
-==================================================
-#BASIC TYPOGRAPHY
-#HEADER SECTION
-#NAVBAR SECTION
-#SLIDER SECTION
-#SERVICE SECTION
-#ABOUT US SECTION
-#COUNTER SECTION
-#FEATURES SECTION
-#LATEST COURSES SECTION
-#TEACHER SECTION
-#TESTIMONIAL SECTION
-#FROM BLOG SECTION
-# COURSES PAGE
-#BLOG PAGE
-#GALLERY PAGE
-#CONTACT PAGE
-#ERROR  PAGE
-#FOOTER SECTION
-#RESPONSIVE DESIGN
-*/
-
-/* BASE - Base tyles, Variables, Mixins, etc. */
 body {
   background-color: #ffffff;
-  font-family: "Roboto", sans-serif;
-  color: #333333;
+  font-family: "Poppins", sans-serif;
+  color: #5a5959;
   font-size: 16px;
   overflow-x: hidden;
+  line-height: 25px;
 }
 
 .no-padding {
@@ -66,7 +34,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 h2 {
@@ -118,7 +86,7 @@ img {
  HEADER SECTION
 ====================*/
 #mu-header {
-  background-color: #ec312a;
+  background-color: #0e5788;
   display: inline;
   float: left;
   width: 100%;
@@ -186,7 +154,7 @@ img {
 }
 #mu-menu .navbar-header .navbar-brand {
   color: #333;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 26px;
   font-weight: bold;
   text-transform: uppercase;
@@ -204,7 +172,8 @@ img {
   border-radius: 0;
   border-left: none;
   border-right: none;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 #mu-menu .navbar-default .navbar-nav li > a {
   border-bottom: 2px solid transparent;
@@ -245,7 +214,7 @@ img {
   font-size: 30px;
   line-height: 50px;
   height: 50px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   padding: 5px 0;
   position: fixed;
   right: 20px;
@@ -316,7 +285,7 @@ img {
   border: medium none;
   color: #fff;
   font-size: 45px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   height: 100px;
   outline: medium none;
   text-align: center;
@@ -454,22 +423,24 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #mu-about-us .mu-about-us-area {
   display: inline;
   float: left;
   width: 100%;
+ 
 }
 #mu-about-us .mu-about-us-area .mu-about-us-left {
   display: inline;
   float: left;
   width: 100%;
+
 }
 #mu-about-us .mu-about-us-area .mu-about-us-left h2 {
   font-size:25px;
-  margin-bottom: 20px;
-  text-align: center;
+  color:#0e5788;
+ 
 }
 #mu-about-us .mu-about-us-area .mu-about-us-left ul {
   margin-left: 25px;
@@ -539,7 +510,7 @@ img {
 .mu-title {
   display: inline;
   float: left;
-  text-align: center;
+
   width: 100%;
 }
 .mu-title h2 {
@@ -2699,4 +2670,8 @@ img {
     border-color: #ec312a!important;
     display: inline-block;
     width: 100%;
+}
+h4{
+  color:#0e5788;
+  font-weight: 600;
 }
